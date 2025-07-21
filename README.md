@@ -10,11 +10,6 @@ I'm a Computer Science student specializing in Artificial Intelligence with a st
 🛠️ Tools & Tech I Use:  
 Python · Pandas · LangChain · OpenAI API · Claude · Gemini Pro · FastAPI · SQL · Jupyter · MidJourney · VEO 2 · Streamlit · AWS · ElevenLabs
 
-📚 Learning More About:  
-- Reinforcement learning  
-- Autonomous decision systems  
-- Scalable AI infrastructure
-
 🎯 Fun Facts:  
 - I like to build tools that do my boring tasks for me
 - I often build multiple versions of tools just to optimize workflows and perfect efficiency
