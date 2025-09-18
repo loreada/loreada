@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Adan
 
-I'm a Computer Science student specializing in Artificial Intelligence with a strong interest in data analytics and intelligent agents. I enjoy building smart systems that learn, adapt, and automate real-world tasks.
+I'm a Computer Science student specializing in Artificial Intelligence with a strong foundation in data analytics and machine learning. I enjoy building smart systems that learn, adapt, and automate real-world tasks.
 
 🚀 Current Focus:  
 - AI agents, multi-agent systems  
