@@ -13,6 +13,6 @@ Python · Pandas · LangChain · OpenAI API · Claude · Gemini Pro · FastAPI �
 🎯 Fun Facts:  
 - I like to build tools that do my boring tasks for me
 - I often build multiple versions of tools just to optimize workflows and perfect efficiency
-- I spend more time perfecting my builds than creating the first version  
+ 
 
 💬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/adan-thomas-7124a91bb/) • [Email](adanthomas.dev@outlook.com)
