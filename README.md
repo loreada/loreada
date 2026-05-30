@@ -11,7 +11,7 @@ I'm a Computer Science student specializing in Artificial Intelligence with a st
  **Languages & Data:** Python · SQL · Pandas · Jupyter
   **AI & Agents:** Claude · OpenAI API · Gemini · LangChain · n8n
   **Cloud & Deployment:** AWS · Google Cloud · Streamlit
-  **Creative AI:** MidJourney · ElevenLabs
+  **Creative AI:** MidJourney · ElevenLabs 
 
 🎯 Fun Facts:  
   - I automate the repetitive so I can focus on the hard problems
