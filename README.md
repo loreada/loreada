@@ -8,10 +8,10 @@ I'm a Computer Science student specializing in Artificial Intelligence with a st
   - Applied machine learning & data workflows
     
 🛠️ Tools & Tech I Use:  
- **Languages & Data:** Python · SQL · Pandas · Jupyter
-  **AI & Agents:** Claude · OpenAI API · Gemini · LangChain · n8n
-  **Cloud & Deployment:** AWS · Google Cloud · Streamlit
-  **Creative AI:** MidJourney · ElevenLabs 
+  - **Languages & Data:**  Python · SQL · Pandas · Jupyter
+  - **AI & Agents:**  Claude · OpenAI API · Gemini · LangChain · n8n  
+  - **Cloud & Deployment:**  AWS · Google Cloud · Streamlit
+  - **Creative AI:**  MidJourney · ElevenLabs 
 
 🎯 Fun Facts:  
   - I automate the repetitive so I can focus on the hard problems
