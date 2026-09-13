@@ -23,10 +23,16 @@ I build AI agents, LLM apps, and the tools around them.
     <td><b>🤖 AI & Agents</b></td>
     <td>
       <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
+      <img src="https://img.shields.io/badge/Claude%20Agent%20SDK-191919?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Agent SDK">
+      <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
       <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK">
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧠 Local LLMs</b></td>
+    <td>
       <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
       <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=qwen&logoColor=white" alt="Qwen">
-      <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
     </td>
   </tr>
   <tr>
