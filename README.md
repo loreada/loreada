@@ -15,7 +15,7 @@ I'm a Computer Science student specializing in Artificial Intelligence with a st
 
 🎯 Fun Facts:  
   - I automate the repetitive so I can focus on the hard problems
-  - I iterate relentlessly — multiple versions until the workflow is clean and the system holds up
+  - I iterate relentlessly, multiple versions until the workflow is clean and the system holds up
  
 
 💬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/adan-thomas-7124a91bb/) • [Email](adanthomas.dev@outlook.com)
